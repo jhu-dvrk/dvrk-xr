@@ -1,0 +1,67 @@
+{
+    "GetStateJaw": {
+        "AutomaticTimestamp": true,
+        "Effort": [
+            0.0053583551198244095
+        ],
+        "Name": [
+            "jaw"
+        ],
+        "Position": [
+            0.5227070450782776
+        ],
+        "Timestamp": 110.031340474,
+        "Type": [
+            0
+        ],
+        "Valid": true,
+        "Velocity": [
+            0
+        ]
+    },
+    "GetStateJoint": {
+        "AutomaticTimestamp": true,
+        "Effort": [
+            -0.44619831442832947,
+            -1.3756005764007568,
+            -5.748323917388916,
+            0.00556805357336998,
+            0.022882448509335518,
+            -0.00014276606088969857
+        ],
+        "Name": [
+            "outer_yaw",
+            "outer_pitch",
+            "outer_insertion",
+            "outer_roll",
+            "outer_wrist_pitch",
+            "outer_wrist_yaw"
+        ],
+        "Position": [
+            -1.3804652690887451,
+            -0.8384171724319458,
+            0.1442348212003708,
+            0.3786279857158661,
+            -0.1288067102432251,
+            0.0351654589176178
+        ],
+        "Timestamp": 110.031340474,
+        "Type": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "Valid": true,
+        "Velocity": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}

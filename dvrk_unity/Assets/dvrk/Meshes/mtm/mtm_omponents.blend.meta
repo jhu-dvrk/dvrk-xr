@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: a30128852899a5442979b6e7fb934b12
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmParallel
+    100002: ArmParallel1
+    100004: BottomArm
+    100006: Link
+    100008: //RootNode
+    100010: OutPitch_Shoulder
+    100012: Top_Panel
+    100014: WristPitch
+    100016: WristPlatform
+    100018: WristRoll
+    100020: WristYaw
+    400000: ArmParallel
+    400002: ArmParallel1
+    400004: BottomArm
+    400006: Link
+    400008: //RootNode
+    400010: OutPitch_Shoulder
+    400012: Top_Panel
+    400014: WristPitch
+    400016: WristPlatform
+    400018: WristRoll
+    400020: WristYaw
+    2300000: ArmParallel
+    2300002: ArmParallel1
+    2300004: BottomArm
+    2300006: Link
+    2300008: OutPitch_Shoulder
+    2300010: Top_Panel
+    2300012: WristPitch
+    2300014: WristPlatform
+    2300016: WristRoll
+    2300018: WristYaw
+    3300000: ArmParallel
+    3300002: ArmParallel1
+    3300004: BottomArm
+    3300006: Link
+    3300008: OutPitch_Shoulder
+    3300010: Top_Panel
+    3300012: WristPitch
+    3300014: WristPlatform
+    3300016: WristRoll
+    3300018: WristYaw
+    4300000: WristYaw
+    4300002: WristRoll
+    4300004: WristPlatform
+    4300006: WristPitch
+    4300008: Top_Panel
+    4300010: OutPitch_Shoulder
+    4300012: Link
+    4300014: BottomArm
+    4300016: ArmParallel1
+    4300018: ArmParallel
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DaVinciBlue
+    second: {fileID: 2100000, guid: 6c6475083364f0c4faae3b22fedeec3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DaVinciDarkGray
+    second: {fileID: 2100000, guid: 8c7f3253ce9c06e48bd5c41aaf2896e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DaVinciGreen
+    second: {fileID: 2100000, guid: c57db3a3ac7dfbf42a437a9566bb6bf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DaVinciLightGray
+    second: {fileID: 2100000, guid: b070850ffc9ec5f43b5f1c7b48cc4acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DaVinciRed
+    second: {fileID: 2100000, guid: da0c9e066d2234746a934d9021cf3428, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
