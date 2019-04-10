@@ -25,7 +25,7 @@ dvrk-xr facilitates the integration of the da Vinci Research Kit (or da Vinci ro
 ## Dependencies
 
 - dVRK hardware
-- [sawIntuitiveResearchKit](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/tree/devel) devel branch
+- [sawIntuitiveResearchKit](https://github.com/jhu-dvrk/sawIntuitiveResearchKit) 1.7.0 or higher
 - [sawSocketStreamer](https://github.com/jhu-saw/sawSocketStreamer)
 - dvrk-xr running on a mixed reality platform
 	- Unity Editor, Standalone build (Windows, Ubuntu), HoloLens, or other platforms
@@ -60,7 +60,7 @@ sawIntuitiveResearchKitQtConsoleJSON -j CONSOLE_CONFIG -m socket-streamer/manage
 ## Dependencies
 
 - da Vinci robot (Classic, S or Si) with research API enabled
-- [sawIntuitiveDaVinci](https://github.com/jhu-saw/sawIntuitiveDaVinci/tree/devel) devel branch
+- [sawIntuitiveDaVinci](https://github.com/jhu-saw/sawIntuitiveDaVinci) 1.2.0 or higher
 - [sawSocketStreamer](https://github.com/jhu-saw/sawSocketStreamer)
 - dvrk-xr running on a mixed reality platform
 	- Unity Editor, Standalone build (Windows, Ubuntu), HoloLens, or other platforms
