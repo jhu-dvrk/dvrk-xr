@@ -17,7 +17,7 @@ Video Examples:
 </tr>
 <tr>
 	<td align="center" width="50%"><img src="https://img.youtube.com/vi/jkBxtGH8i14/maxresdefault.jpg" /></td>
-	<td align="center" width="50%"><img src="https://img.youtube.com/vi/WnsvW3S3W_A/maxresdefault.jpg" /></td>
+	<td align="center" width="50%"><img src="https://img.youtube.com/vi/WnsvW3S3W_A/hqdefault.jpg" /></td>
 </tr>
 <tr>
 	<td align="center"><a href="https://youtu.be/jkBxtGH8i14"><b>dVRK-XR with Android ARCore (3rd view)</b></a></td>
