@@ -15,13 +15,21 @@ Video Examples:
 	<td align="center"><a href="https://youtu.be/3UMxttmfofU"><b>dVRK-XR in Unity Editor</b></a></td>
 	<td align="center"><a href="https://youtu.be/b3a0d_bFe4E"><b>dVRK-XR on Windows Mixed Reality Headset</b></a></td>
 </tr>
+<tr>
+	<td align="center" width="50%"><img src="https://img.youtube.com/vi/jkBxtGH8i14/maxresdefault.jpg" /></td>
+	<td align="center" width="50%"><img src="https://img.youtube.com/vi/WnsvW3S3W_A/maxresdefault.jpg" /></td>
+</tr>
+<tr>
+	<td align="center"><a href="https://youtu.be/jkBxtGH8i14"><b>dVRK-XR with Android ARCore (3rd view)</b></a></td>
+	<td align="center"><a href="https://youtu.be/WnsvW3S3W_A"><b>dVRK-XR with Android ARCore (screen rec.)</b></a></td>
+</tr>
 </table>
 
 Screenshot from Unity Editor:
 
 ![capture](dvrk_unity/unity_screenshot.png "Screenshot of Unity")
 
-dvrk-xr facilitates the integration of the da Vinci Research Kit (or da Vinci robot with research API) with extended reality platforms.
+**dVRK-XR** facilitates the integration of the da Vinci Research Kit (or da Vinci robot with research API) with extended reality platforms. To run **dVRK-XR**, you first need some knowledge about [Unity development](https://unity3d.com/learn/beginner-tutorials) and the [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki). 
 
 # Structure of Project
 
