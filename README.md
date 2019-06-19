@@ -4,6 +4,19 @@ This repository has code related to da Vinci Research Kit Mixed Reality extensio
 
 # Overview
 
+Video Examples:
+
+<table border=0>
+<tr>
+	<td align="center" width="50%"><img src="https://img.youtube.com/vi/3UMxttmfofU/maxresdefault.jpg" /></td>
+	<td align="center" width="50%"><img src="https://img.youtube.com/vi/b3a0d_bFe4E/maxresdefault.jpg" /></td>
+</tr>
+<tr>
+	<td align="center"><a href="https://youtu.be/3UMxttmfofU"><b>dVRK-XR in Unity Editor</b></a></td>
+	<td align="center"><a href="https://youtu.be/b3a0d_bFe4E"><b>dVRK-XR on Windows Mixed Reality Headset</b></a></td>
+</tr>
+</table>
+
 Screenshot from Unity Editor:
 
 ![capture](dvrk_unity/unity_screenshot.png "Screenshot of Unity")
