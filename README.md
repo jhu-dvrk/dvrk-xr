@@ -17,7 +17,7 @@ Video Examples:
 </tr>
 <tr>
 	<td align="center" width="50%"><img src="https://img.youtube.com/vi/jkBxtGH8i14/maxresdefault.jpg" /></td>
-	<td align="center" width="50%">![dVRK-XR with Google Cardboard](dvrk_unity/gvr_screenshot.png "dVRK-XR with Google Cardboard")</td>
+	<td align="center" width="50%"><img src="dvrk_unity/gvr_screenshot.png" /></td>
 </tr>
 <tr>
 	<td align="center"><a href="https://youtu.be/jkBxtGH8i14"><b>dVRK-XR with Android ARCore (3rd view)</b></a></td>
