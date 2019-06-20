@@ -17,19 +17,16 @@ Video Examples:
 </tr>
 <tr>
 	<td align="center" width="50%"><img src="https://img.youtube.com/vi/jkBxtGH8i14/maxresdefault.jpg" /></td>
-	<td align="center" width="50%"><img src="https://img.youtube.com/vi/WnsvW3S3W_A/hqdefault.jpg" /></td>
+	<td align="center" width="50%"><img src="https://img.youtube.com/vi/scVTh4BPNn8/hqdefault.jpg" /></td>
 </tr>
 <tr>
 	<td align="center"><a href="https://youtu.be/jkBxtGH8i14"><b>dVRK-XR with Android ARCore (3rd view)</b></a></td>
-	<td align="center"><a href="https://youtu.be/WnsvW3S3W_A"><b>dVRK-XR with Android ARCore (screen rec.)</b></a></td>
+	<td align="center"><a href="https://youtu.be/scVTh4BPNn8"><b>dVRK-XR with Google Cardboard (screen rec.)</b></a></td>
 </tr>
 </table>
 
-Screenshot from Unity Editor:
 
-![capture](dvrk_unity/unity_screenshot.png "Screenshot of Unity")
-
-**dVRK-XR** facilitates the integration of the da Vinci Research Kit (or da Vinci robot with research API) with extended reality platforms. To run **dVRK-XR**, you first need some knowledge about [Unity development](https://unity3d.com/learn/beginner-tutorials) and the [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki). 
+**dVRK-XR** facilitates the integration of the da Vinci Research Kit (or da Vinci robot with research API) with extended reality platforms. To run **dVRK-XR**, you first need some knowledge about [Unity](https://unity.com/) development and the [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki). 
 
 # Structure of Project
 
@@ -94,7 +91,12 @@ Same as dVRK, but main program is `sawIntuitiveDaVinciConsoleQt`.
 # Academic Citation
 
 ```
-Coming soon
+@inproceedings{qian2019dvrkxr,
+  title={{dVRK-XR: Mixed Reality Extension for da Vinci Research Kit}},
+  author={Qian, Long and Deguet, Anton and Kazanzides, Peter},
+  booktitle={Hamlyn Symposium on Medical Robotics},
+  year={2019}
+}
 ```
 
 # License
