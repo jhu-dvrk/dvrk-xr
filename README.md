@@ -26,7 +26,7 @@ Video Examples:
 </table>
 
 
-**dVRK-XR** facilitates the integration of the da Vinci Research Kit (or da Vinci robot with research API) with extended reality platforms. To run **dVRK-XR**, you first need some knowledge about [Unity](https://unity.com/) development and the [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki). 
+**dVRK-XR** facilitates the integration of the da Vinci Research Kit (or da Vinci robot with research API) with extended reality platforms. To run **dVRK-XR**, you first need some knowledge about [Unity](https://unity.com/) development and the [dVRK](https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki). I also wrote a [blog post](http://longqian.me/2019/06/21/dvrk-xr/) about the rationale behind the development of this project.
 
 # Structure of Project
 
