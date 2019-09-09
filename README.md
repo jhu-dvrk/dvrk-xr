@@ -98,6 +98,9 @@ Same as dVRK, but main program is `sawIntuitiveDaVinciConsoleQt`.
   year={2019}
 }
 ```
+# Acknowledgment
+
+dvrk-xr was developed with support from NSF NRI 1637789.
 
 # License
 JHU CISST Software License
